@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Breaking News: New Sports Event",
+    "content": "A new sports event has been announced today...",
+    "category": "Sports",
+    "date": "2025-11-03",
+    "author": "Admin"
+  },
+  {
+    "id": 2,
+    "title": "Tech Update: New Smartphone Released",
+    "content": "The latest smartphone has features like...",
+    "category": "Technology",
+    "date": "2025-11-02",
+    "author": "Admin"
+  }
+]
